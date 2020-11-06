@@ -5,6 +5,7 @@
 ### Category Name 1 
 
 [Project 1 Title](/sample_page)
+Hi, this is some description here.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
